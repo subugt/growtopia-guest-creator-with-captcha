@@ -1,19 +1,19 @@
-# Growtopia New Guest Bypass
+# Growtopia New Guest Bypass 💥
 
-**Bu kod şu an için çalışıyor, ancak gelecekteki güncellemeleri takip etmeniz gerekebilir.**
-*Oluşturulma tarihi: 24/08/2023*
-*Son kontrol tarihi: 25/08/2023*
+🔥 **This code is currently working, but you might need to keep an eye out for future updates.**  
+📅 *Created on: 24/08/2023*  
+🔍 *Last checked on: 25/08/2023*
 
-Bu kodu kullanmadan önce lütfen kredi verin.
-Eğer bir YouTube videosu paylaşıyorsanız, yorumlarda GitHub hesabımı eklemeyi unutmayın.
+Please remember to give credit if you decide to use this code.  
+If you're sharing a YouTube video, don't forget to add my GitHub in the comments.
 
-## İletişim
+## Contact 💬
 
-- Discord: [PowerProxy](https://dsc.gg/powerproxy)
-- Geliştirici Adı (Discord & YouTube): @subugt
+- Discord: [PowerProxy](https://dsc.gg/powerproxy) 🚀
+- Developer Username (Discord & YouTube): @subugt 🎮
 
-**Sadece eğitim amaçlıdır.**
+**For educational purposes only. 📚**
 
 ---
 
-[**guest creator with captcha solver**](/main.cpp)
+[**Guest Creator with Captcha Solver**](/main.cpp) 🤖
