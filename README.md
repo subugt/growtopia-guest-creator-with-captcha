@@ -1,8 +1,12 @@
 # Growtopia New Guest Bypass 💥
 
 🔥 **This code is currently working, but you might need to keep an eye out for future updates.**  
+
+# UPDATES#
 📅 *Created on: 24/08/2023*  
+
 🔍 *#1 checked on: 25/08/2023*
+
 🔍 *#2 checked on 9/02/2024*
 
 *ADDED 2 NEW METOD ENET AND Bost.Beast 🔥 🆒*
