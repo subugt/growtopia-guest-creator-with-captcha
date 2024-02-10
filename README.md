@@ -1,7 +1,7 @@
 # Growtopia New Guest Bypass 💥
 
 🔥 **This code is currently working, but you might need to keep an eye out for future updates.**  
-😇 ** ASAP I'll add librarys **
+😇 **ASAP I'll add librarys**
 # UPDATES#
 📅 *Created on: 24/08/2023*  
 
