@@ -24,12 +24,12 @@ std::string getHtml(std::string url) {
 }
 
 std::string getSiteKey(std::string html) {
-    // Same regex logic
+
     return matches[1];
 }
 
 std::string solveCaptcha(std::string apiKey, std::string siteKey, std::string url) {
-    // Captcha solving logic
+    // Captcha
     return response;
 }
 
@@ -38,11 +38,11 @@ int main() {
     std::string siteKey = getSiteKey(html);
     std::string response = solveCaptcha("API_KEY", siteKey, "URL");
     
-    // Extract tokens, make POST request
+    // Extract tokens make post
     httplib::Client client("www.growtopiagame.com");
     httplib::Request req("POST", "/player/validate");
     
-    // Add parameters, headers
+    
     
     auto res = client.send(req);
     if (res->status == 200) {
@@ -51,3 +51,4 @@ int main() {
     
     return 0;
 }
+
